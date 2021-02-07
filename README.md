@@ -1,1 +1,1 @@
-# Ba-lang-in-Python-Projeleri-Python-Projects-for-Beginning-
+# Python-Projeleri-Python-Projects-for-Beginning-
